@@ -36,7 +36,7 @@ body {
 }
 
 header {
-    background-color: #21203f;
+    background-color: #651769;
     margin-top: 3px;
     border-radius: 7px 7px 0px 0px;
     width: 90vw;
@@ -53,9 +53,9 @@ header>h1 {
 }
 
 #burger {
-    background-color: #312aff;
+    background-color: #ff0000;
     display: block;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     text-align: center;
     margin: auto;
     padding: 7px;
@@ -84,15 +84,15 @@ menu>ul>li>a {
     padding: 7px;
     text-decoration: none;
     text-align: center;
-    background-color: #222224;
+    background-color: #000000fa;
     border-radius: 0px 0px 0px 0px;
-    color: rgb(255, 15, 15);
+    color: rgb(255, 41, 41);
     margin: auto;
 
 }
 
 menu>ul>li>a:hover {
-    background-color: #c5a898;
+    background-color: #000000;
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
